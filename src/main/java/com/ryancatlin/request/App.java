@@ -1,11 +1,9 @@
 package com.ryancatlin.request;
 
-import java.util.HashMap;
-
 import com.github.kevinsawicki.http.*;
 
 /**
- * Hello world!
+ * Print a random quote to system out.
  *
  */
 public class App 
